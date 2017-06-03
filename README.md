@@ -1,4 +1,4 @@
-# Ivory raffle
+# Powerphase raffle
 ## How to run?
 First, clone this repository with the step below.
 ```sh
